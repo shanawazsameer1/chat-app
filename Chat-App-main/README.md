@@ -143,16 +143,4 @@ dependencies:
 - [ ] 🌍 Multi-language support
 - [ ] 🔒 End-to-end encryption
 
----
 
-## 🙌 Author
-
-**Muhammad Attaullah**  
-Feel free to connect or contribute to this project.
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/M-Attaullah) [*M-Attaullah*](https://github.com/M-Attaullah)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-attaullah-705764333/) [*Muhammad Attaullah*](https://www.linkedin.com/in/muhammad-attaullah-705764333/)
-
----
-
-> 📌 *This app was developed as part of a Flutter development project showcasing MVVM architecture, Firebase integration, and modern UI design with real-time messaging capabilities.*
