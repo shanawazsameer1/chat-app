@@ -91,7 +91,7 @@ lib/
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/M-Attaullah/Chat-App.git
+   git clone https://github.com/shananawazsameer1/Chat-App.git
    cd Chat-App
    ```
    
